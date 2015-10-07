@@ -1,0 +1,62 @@
+
+=================================================
+Points:
+              1	              2
+              1	              3
+              1	              4
+              1	              5
+              1	              6
+              1	              7
+              2	              4
+              2	              5
+              2	              6
+              2	              7
+              3	              1
+              3	              4
+              3	              5
+              3	              6
+              2	              1
+              3	              2
+              2	              3
+              0	              2
+
+=================================================
+>>>Rublev<<<<
+Parameters of the ellipsoid:
+Centre of the ellipsoid:
+(1.65272, 3.59579)
+Eigenvectors and Semi-axes:
+Eigenvector#1: (0.999633, -0.0270835) And the semi-axe which corresponds to this eigenvector: 1.88047
+Eigenvector#2: (0.0270835, 0.999633) And the semi-axe which corresponds to this eigenvector: 3.58339
+Volume:	21.1694
+0.692307692308
+=================================================
+Points:
+              1	              2
+              1	              3
+              1	              4
+              1	              5
+              1	              6
+              1	              7
+              2	              4
+              2	              5
+              2	              6
+              2	              7
+              3	              1
+              3	              4
+              3	              5
+              3	              6
+              2	              1
+              3	              2
+              2	              3
+              0	              2
+
+=================================================
+>>>Rublev<<<<
+Parameters of the ellipsoid:
+Centre of the ellipsoid:
+(1.65272, 3.59579)
+Eigenvectors and Semi-axes:
+Eigenvector#1: (0.999633, -0.0270835) And the semi-axe which corresponds to this eigenvector: 1.88047
+Eigenvector#2: (0.0270835, 0.999633) And the semi-axe which corresponds to this eigenvector: 3.58339
+Volume:	21.1694
